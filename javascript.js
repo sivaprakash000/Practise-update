@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html>
+
+
 <body>
 
 <h2>JavaScript Numbers</h2>
@@ -13,4 +13,4 @@ document.getElementById("demo").innerHTML = 10.50;
 </script>
 
 </body>
-</html>
+
